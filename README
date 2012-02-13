@@ -1,0 +1,2 @@
+This code implements the JPS A* algorithm for fast arbitrary pathfinding. The
+catch? This is written in Robot C, specifically for FIRST Tech Challenge.
